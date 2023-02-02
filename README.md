@@ -16,6 +16,6 @@ Empreendedor | CEO na Gti Sistemas | Socio na Gti Tech
 
 </div></br>
 
-![Eric Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=egstecnologia&show_icons=true&theme=merko)
+![Eric Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=egstecnologia&theme=merko)
 
 
