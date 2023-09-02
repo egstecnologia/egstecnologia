@@ -16,6 +16,5 @@ Rumo a um programador FullStack!
     🐦<img align="center" alt="Banco" src="https://img.shields.io/badge/FireBird-20232A?style=for-the-badge&logo">
 
 </div></br>
-![Eric Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=egstecnologia&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-<!-- //![Eric Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=egstecnologia&show_icons=true&theme=merko) -->
+![Eric Galdino GitHub stats](https://github-readme-stats.vercel.app/api?username=egstecnologia&show_icons=true&theme=merko)
 
